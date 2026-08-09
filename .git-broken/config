@@ -1,0 +1,13 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = https://github.com/musicalzhu/mtr-issue-bot.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[user]
+	name = musicalzhu
+	email = musicalzhu@users.noreply.github.com
