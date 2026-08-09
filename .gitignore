@@ -29,6 +29,14 @@ dist/
 *.swo
 *~
 
+# Local AI/tool metadata and temporary git state
+.agents/
+.claude/
+.cursor/
+.kimi-code/
+.qwen/
+.git-broken/
+
 # OS generated files
 .DS_Store
 .DS_Store?
